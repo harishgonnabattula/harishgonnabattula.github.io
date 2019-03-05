@@ -4,3 +4,5 @@
   link: /about.html
 - name: CV
   link: /Harish_Gonnabattula_Resume.pdf
+- name: Contact Me
+  link: mailto:myname@gmail.com
